@@ -1,6 +1,6 @@
 # Model Drift
 
-This repository provides the code for plotting persona drift in LLM-based chatbots, as discussed in [Measuring and Controlling Persona Drift in Language Model Dialogs](https://www.google.com/). 
+This repository provides the code for plotting persona drift in LLM-based chatbots, as discussed in [Measuring and Controlling Persona Drift in Language Model Dialogs](https://arxiv.org/html/2402.10962v1). 
 
 ## Abstract
 
@@ -34,4 +34,11 @@ Please check out `plot_convergence.ipynb`.
 
 ## How to Cite
 
-coming soon
+```
+@article{li2024measuring,
+  title={Measuring and Controlling Persona Drift in Language Model Dialogs},
+  author={Li, Kenneth and Liu, Tianle and Bashkansky, Naomi and Bau, David and Vi{\'e}gas, Fernanda and Pfister, Hanspeter and Wattenberg, Martin},
+  journal={arXiv preprint arXiv:2402.10962},
+  year={2024}
+}
+```
